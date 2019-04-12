@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 15
-  productGUID: 00000000000000000000000000000000
+  productGUID: ca65911044dd2ba4eadfd759cc246ed0
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -671,7 +671,7 @@ PlayerSettings:
   facebookSdkVersion: 7.9.1
   apiCompatibilityLevel: 2
   cloudProjectId: 27a0f4d6-8551-4cc9-a594-e812f81dcbe1
-  projectName: 
+  projectName: Mosquito
   organizationId: deyox
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
